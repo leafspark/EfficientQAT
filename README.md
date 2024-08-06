@@ -1,5 +1,3 @@
-Here's a revised README for clarity, incorporating the new .bat scripts:
-
 # EfficientQAT
 
 Official PyTorch implementation of [EfficientQAT: Efficient Quantization-Aware Training for Large Language Models](https://arxiv.org/abs/2407.11062)
